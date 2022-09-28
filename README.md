@@ -1,4 +1,4 @@
-# TEALS- Level 1 Heading
+# TEALS
 
 This is my text Under Level 1
 
@@ -22,4 +22,4 @@ This is my text Under Level 5
 
 This is my text Under Level 6
 
-<H1>- Heres's an HTML Level 1 Heading</H1>
+<H1>Heres's an HTML Level 1 Heading</H1>
