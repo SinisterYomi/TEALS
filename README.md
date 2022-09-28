@@ -1,5 +1,4 @@
-# TEALS
-
+# TEALS - Level 1 Heading
 This is my text Under Level 1
 
 ## Level 2 Heading
