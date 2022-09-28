@@ -1,5 +1,6 @@
 # TEALS - Level 1 Heading
-This is my text Under Level 1. This is for the **Introduction to Software Technology** class at *Towers High School*! The High School can be found [here] (https://www.towershs.dekalb.k12.ga.us/
+This is my text Under Level 1. This is for the **Introduction to Software Technology** class at *Towers High School*! The High School can be found [here] (https://www.towershs.dekalb.k12.ga.us/)
+
 
 ## Level 2 Heading
 
