@@ -1,5 +1,5 @@
 # TEALS - Level 1 Heading
-This is my text Under Level 1
+This is my text Under Level 1. This is for the **Introduction to Software Technology
 
 ## Level 2 Heading
 
