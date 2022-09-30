@@ -16,8 +16,12 @@ A few languages that we discuss for programming:
 - Julia
 
 Tsbles are also helpful
-|Column 1|Column 2|
-|Row 1   |Value  1  
+|Syntax  | Description |
+|-------|--------|
+|Row 1  |Value 1 |
+|Row 1  |Value 2 |
+|Row 3  |Value 3 |  
+
 This is my text Under Level 2
 
 ### Level 3 Heading
